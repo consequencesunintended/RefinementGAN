@@ -1,1 +1,5 @@
-# RefinementGAN
+<p>This repository contains the official TensorFlow implementation of the following paper:</p>
+<blockquote>
+<p><strong>An Image-based Generator Architecture for Synthetic Image Refinement</strong><br />Alex Nasser<br /><a href="https://arxiv.org/abs/2108.04957" rel="nofollow">https://arxiv.org/abs/2108.04957</a></p>
+<p><strong>Abstract:</strong> <em>Proposed are alternative generator architectures for Boundary Equilibrium Generative Adversarial Networks, motivated by Learning from Simulated and Unsupervised Images through Adversarial Training. It disentangles the need for a noise-based latent space. The generator will operate mainly as a refiner network to gain a photo-realistic presentation of the given synthetic images. It also attempts to resolve the latent space's poorly understood properties by eliminating the need for noise injection and replacing it with an image-based concept. The new flexible and simple generator architecture will also give the power to control the trade-off between restrictive refinement and expressiveness ability. Contrary to other available methods, this architecture will not require a paired or unpaired dataset of real and synthetic images for the training phase. Only a relatively small set of real images would suffice.</em></p>
+</blockquote>
