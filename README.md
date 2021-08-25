@@ -1,4 +1,5 @@
 <p><a href="https://www.buymeacoffee.com/banterless" target="_blank"><img style="height: 41px !important; width: 174px !important; box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important; -webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" /></a></p>
+<h1>An Image-based Generator Architecture for Synthetic Image Refinement</h1>
 <p><img style="max-width: 65%;" src="https://user-images.githubusercontent.com/44167267/129492992-7f46b08b-4a01-438d-88b6-a3f2ecac0776.png" alt=""  /></p>
 <p>This repository contains the official TensorFlow 2.x implementation, in Jupyter Notebook, of the following paper:</p>
 <blockquote>
